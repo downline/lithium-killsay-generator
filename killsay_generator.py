@@ -1,7 +1,7 @@
 file = "killsays.txt"
 lithium_file = "lithium_killsays.cfg"
     
-def replace_foreign_shit(line): # In case of your killsays having foreign variables, you can change them here. Refer to https://lithiumcheats.mybb.us/viewtopic.php?id=2080 for lithium killsay variables. Replacement below is for NCC variables.
+def replace_foreign_shit(line): # In case of your killsays having foreign variables, you can change them here. Refer to https://lithiumcheats.net/viewtopic.php?id=2080 for lithium killsay variables. Replacement below is for NCC variables.
    im_stuff = line.rstrip().replace("%victim%", "%player_name%")
    return im_stuff
 
