@@ -1,4 +1,4 @@
 # lithium-killsay-generator
-Makezz dem kilsayz
+Converts dem kilsayz
 
-Create killsays.txt, put your killsays there(1 killsay - 1 line) and run the script.
+Put 1 killsay per line into killsays.txt and then run the script.
